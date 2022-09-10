@@ -1,5 +1,6 @@
 # Linear-Regression-model-on-Irish-dataset
 
+# Objective
 In Irish dataset their are four features such as Sepal length,Sepal Width,Petal length and Petal width.
 In a linear regression model we put any of the one freatures in dependent variable and other features in independent variable.
 
